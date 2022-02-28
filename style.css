@@ -1,0 +1,85 @@
+body{
+    background-color: blueviolet;
+  }
+
+  a{
+    text-decoration: none;
+  }
+  
+  img {
+    width: 12rem;
+    border-radius: 50%;
+    margin-bottom: 0;
+  }
+  .intro{
+      float: left;
+      margin-left: 5rem;
+  }
+  .main-heading{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Montaga', serif;
+    margin: 30px auto 50px;
+  }
+  .name{
+    font-family: 'MonteCarlo', cursive;
+    font-size: 2rem;
+    margin-top: 0;
+  }
+  .pera {
+    width: 50vw;
+    margin-left: 25rem;
+    line-height: 1.5;
+    text-align: left;
+    font-size: 1.2rem;
+  }
+  .about{
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+  }
+  hr{
+    width: 10%;
+    border: dotted 6px white;
+    border-bottom: none;
+    margin: 6vh auto 6vh 90vh;
+  }
+
+  .skills{
+    margin-left: 25rem;
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+  .skill-heading{
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+  }
+
+  .achievements{
+    margin-left: 25rem;
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+  .achieve{
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+  }
+
+  .education{
+    margin-left: 25rem;
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+  .edu{
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+  }
+
+  .contact{
+    margin-left: 25rem;
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+  .contact-heading{
+    font-family: 'Quintessential', cursive;
+    font-size: 2rem;
+  }
